@@ -1,0 +1,113 @@
+body {
+    font-family: 'Montserrat';
+    margin: 0;
+    padding: 20px;
+    background-image: url("../img/CS.png");
+    font-size: 20px;
+}
+
+header {
+    margin: 160px 110px;
+}
+
+.about-me {
+    margin: 320px 70px;
+}
+
+.big-title {
+    font-size: 120px;
+}
+
+.my-photo {
+    position: absolute;
+    margin: -650px 910px;
+}
+
+.body-section__first {
+    margin: 160px 110px;
+}
+
+.my-works {
+    display: flex;
+    justify-content: space-between;
+}
+
+.work-first {
+    background-color: #FFFFFF;
+}
+
+.first-work img {
+    width: 500px;
+    height: 700px;
+}
+
+.second-work img {
+    width: 500px;
+    height: 700px;
+}
+
+.work-text {
+    padding: 24px 190px 10px 10px;
+}
+
+hr {
+    width: 1230px;
+}
+
+.work-button {
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 15px;
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+
+.work-content {
+    display: flex;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.what-know {
+    margin: 160px 110px;
+}
+
+.logos {
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+}
+
+.logo-js img {
+    width: 80px;
+    height: 80px;
+}
+
+.logo-js {
+    display: flex;
+    align-items: center;
+}
+
+.logo-js p {
+    padding: 10px;
+}
+
+.footer-section-contact {
+    margin: 160px 110px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
